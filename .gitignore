@@ -4,3 +4,10 @@
 
 # ignore .log files
 *.log
+# ignore .env files
+*.env
+
+# ignore .zip, .tar.gz, and .rar files
+*.zip
+*.tar.gz
+*.rar
